@@ -53,7 +53,7 @@ Reduced visual discrepancies by early identification and reporting of layout mis
 
 In addition to this README, the repository contains:
 
-test_report.md – Summary of test results and issues found
+test_report.docx – Summary of test results and issues found
 
 test_checklist.xlsx – Detailed manual test checklist with positive and negative cases
 
